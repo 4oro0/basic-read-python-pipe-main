@@ -3,7 +3,7 @@ expected output:
 Response from Lua process:
 hi
 pid is
-20552
+[insert pid here]
 
 Error from Lua process:
 
